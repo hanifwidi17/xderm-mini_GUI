@@ -85,7 +85,7 @@ https-dns-proxy
 
 Main Xderm-Mini Installation
 ```
-wget -O installer https://raw.githubusercontent.com/ryanfauzi1/xderm-mini_GUI/main/installer && chmod +x installer && ./installer
+wget -O installer https://raw.githubusercontent.com/hanifwidi17/xderm-mini_GUI/main/installer && chmod +x installer && ./installer
 ```
 
 **Run ```xdrtool``` command using terminal to Setup Xderm Mini after initial installation**
